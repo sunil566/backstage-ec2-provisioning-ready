@@ -1,0 +1,6 @@
+instance_name       = "${{ values.instanceName }}"
+instance_type       = "${{ values.instanceType }}"
+ami_id              = "${{ values.amiId }}"
+subnet_id           = "${{ values.subnetId }}"
+security_group_id   = "${{ values.securityGroupId }}"
+aws_region          = "${{ values.awsRegion }}"
