@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-ec2-provisioning-ready
+  annotations:
+    github.com/project-slug: sunil566/backstage-ec2-provisioning-ready
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sunil566
